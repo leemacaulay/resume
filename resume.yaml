@@ -1,0 +1,126 @@
+basics:
+  name: Lee Macaulay
+  label: Audio Journalist
+  picture: "https://lmcly.fyi/images/lm-2020-profile-240px.webp"
+  email: lee@mixmul.com
+  website: https://lmcly.fyi
+  summary: Hey 👋 I'm a journalist with more than six years' of newsroom experience and, now, I work at cutting edge of audio news. I was part of the launch team for the world's first interactive news bulletin service for smart speakers. I've worked in newsrooms for BBC News, BBC Local Radio and commercial radio stations in the north of England. My writing style is concise, precise and tailor-made for the internet.
+  location:
+    city: London
+    countryCode: GB
+  profiles:
+    - network: Twitter
+      username: lmcly
+      url: "https://www.twitter.com/lmcly"
+    - network: Linkedin
+      username: leemacaulay
+      url: "https://www.linkedin.com/in/leemacaulay/"    
+work:
+  - company: BBC News
+    position: Journalist, Voice News
+    website: https://www.bbc.co.uk/news/help-50068132
+    startDate: "2019-04-01"
+    summary: Writer, editor and bulletin reader of bespoke news bulletins created for smart speakers and mobile devices, heard by hundreds of thousands of people every month. 
+    highlights:
+      - Part of the launch team for, and one of the only people in the world to have experience creating, an interactive audio news bulletin for Amazon Alexa devices.
+      - Writer, editor and bulletin reader for short audio briefings (flash briefings) on Amazon Alexa, Google Assistant, Apple Siri and BBC Sounds platforms. 
+      - Devised and wrote guides to make sure that we could keep creating our bulletins at a high quality from home during the coronavirus pandemic. 
+      - Helped devise the format of podcast and smart speaker bulletin BBC News Coronavirus Update 24/7, which is updated multiple times a day. 
+      - Experienced at working around the clock on a three-days-on/three-off 24-hour rota pattern. 
+  - company: BBC World Service
+    position: Journalist (casual), BBC Minute
+    website: https://www.bbc.com/minute
+    startDate: "2016-09-01"
+    summary: Writer, editor and bulletin reader of short news bulletins which are broadcast every half an hour, 24 hours a day, on commercial radio stations around the world. 
+    highlights: 
+      - Covered high profile events like the 2020 Oscars and MTV Europe Music Awards from the newsroom.
+      - Praised by managers for "top quality" writing and a presentation style full of "personality and fun"
+  - company: BBC Radio Cumbria
+    position: Journalist
+    website: https://www.bbc.co.uk/radiocumbria
+    startDate: "2015-09-01"
+    endDate: "2019-04-01"
+    summary: Reporter, producer and newsreader on the BBC's local radio station for Cumbria which reaches around one in four adults a week.
+    highlights:
+      - Regular bulletin writer, editor and reader, breakfast programme producer (speech/news) and live reporter
+      - Writer and curator for BBC News Online live blog service BBC Cumbria Live
+      - Helped BBC Radio Cumbria lead regional and national coverage of the closure of the Oxenholme-Windermere railway line in 2018.
+      - Digital video producer for BBC Cumbria's social media platforms.
+      - Reported for BBC Radio 4, BBC Radio Wales and BBC Tees during the 2015 Cumbrian floods and for BBC Radio 5 Live Breakfast on Sellafield chemical disposal in 2017.
+  - company: CFM
+    position: Multimedia News and Sport Reporter
+    website: https://planetradio.co.uk/cfm/
+    startDate: "2014-10-01"
+    endDate: "2015-08-01"
+    summary: Gathered audio and wrote copy for hourly bulletins on Bauer Radio's commercial radio station broadcasting to North and West Cumbria. Updated social media and wrote news articles for the web.
+    highlights:
+      - Reported from the Morecambe Bay inquiry report event for the Bauer City Network.
+      - Reported from the 2015 General Election for the Bauer City Network.
+  - company: Metro Radio and TFM
+    position: Multimedia News and Sport Reporter (casual)
+    website: https://planetradio.co.uk/metro/
+    startDate: "2014-07-01"
+    endDate: "2014-09-01"
+    summary: Gathered audio and wrote copy for hourly bulletins on Bauer Radio's commercial radio stations for the North East. Updated social media and wrote news articles for the web.
+education:
+  - institution: University of Central Lancashire
+    area: Broadcast Journalism
+    studyType: Postgraduate Diploma
+    startDate: "2013-09-01"
+    endDate: "2014-07-01"
+    gpa: Distinction
+    courses: 
+      - Digital Journalism
+      - UK Media Law
+      - UK Public Affairs
+  - institution: Cardiff University
+    area: Journalism, Film and Media
+    studyType: BA (Hons)
+    startDate: "2006-09-01"
+    endDate: "2009-09-01"
+awards:
+  - title: Highly Commended, Editorial Innovation of the Year
+    date: "2020-05-01"
+    awarder: The Drum Media Awards
+    summary: as part of BBC Voice News Team for BBC News on Smart Speakers
+  - title: Nominee, News (Voice)
+    date: "2020-05-01"
+    awarder: Webby Awards
+    summary: as part of BBC Voice News Team for BBC News on Smart Speakers
+skills:
+  - name: Audio
+    level: Master
+    keywords:
+      - Bulletin reader
+      - Live reporter
+      - Speech radio producer
+      - Talented audio editor
+  - name: Online 
+    level: Master
+    keywords:
+      - Live blogger
+      - Social video producer
+      - Social media curator
+  - name: Data 
+    level: Master
+    keywords:
+      - R and RStudio
+      - Dplyr and ggplot2
+      - Microsoft Excel
+      - Google Sheets
+# languages:
+#   - language: English
+#     fluency: Native speaker
+interests:
+  - name: Video Games
+    keywords:
+      - Nintendo Switch
+      - Animal Crossing New Horizons
+  - name: Reading
+    keywords:
+      - Ferrets
+      - Unicorns
+  - name: Technology
+    keywords:
+      - Voice activated
+      - Unicorns
