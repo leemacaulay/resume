@@ -1,10 +1,10 @@
 basics:
   name: Lee Macaulay
-  label: Audio Journalist
+  label: Audio journalist
   picture: "https://lmcly.fyi/images/lm-2020-profile-240px.webp"
   email: lee@mixmul.com
   website: https://lmcly.fyi
-  summary: Hey 👋 I'm a journalist with more than six years' of newsroom experience and, now, I work at cutting edge of audio news. I was part of the launch team for the world's first interactive news bulletin service for smart speakers. I've worked in newsrooms for BBC News, BBC Local Radio and commercial radio stations in the north of England. My writing style is concise, precise and tailor-made for the internet.
+  summary: Hey 👋 I'm a journalist with more than six years' of newsroom experience and, now, I work at cutting edge of audio news. I was part of the launch team for the world's first interactive news bulletin service for smart speakers. I've worked in newsrooms for BBC News, BBC Local Radio and commercial radio stations in the north of England. My writing style is concise, precise and tailor-made for the internet. I know just enough about coding to be dangerous too. 
   location:
     city: London
     countryCode: GB
@@ -14,13 +14,16 @@ basics:
       url: "https://www.twitter.com/lmcly"
     - network: Linkedin
       username: leemacaulay
-      url: "https://www.linkedin.com/in/leemacaulay/"    
+      url: "https://www.linkedin.com/in/leemacaulay/"
+    - network: GitHub
+      username: leemacaulay
+      url: "https://www.github.com/leemacaulay"     
 work:
   - company: BBC News
     position: Journalist, Voice News
     website: https://www.bbc.co.uk/news/help-50068132
     startDate: "2019-04-01"
-    summary: Writer, editor and bulletin reader of bespoke news bulletins created for smart speakers and mobile devices, heard by hundreds of thousands of people every month. 
+    summary: Writer, editor and bulletin reader of bespoke BBC News bulletins created for smart speakers and mobile devices, heard by hundreds of thousands of people every month. 
     highlights:
       - Part of the launch team for, and one of the only people in the world to have experience creating, an interactive audio news bulletin for Amazon Alexa devices.
       - Writer, editor and bulletin reader for short audio briefings (flash briefings) on Amazon Alexa, Google Assistant, Apple Siri and BBC Sounds platforms. 
@@ -40,7 +43,7 @@ work:
     website: https://www.bbc.co.uk/radiocumbria
     startDate: "2015-09-01"
     endDate: "2019-04-01"
-    summary: Reporter, producer and newsreader on the BBC's local radio station for Cumbria which reaches around one in four adults a week.
+    summary: Reporter, producer, newsreader and live blogger for the BBC's local radio station for Cumbria which reaches around one in four adults a week. 
     highlights:
       - Regular bulletin writer, editor and reader, breakfast programme producer (speech/news) and live reporter
       - Writer and curator for BBC News Online live blog service BBC Cumbria Live
@@ -89,38 +92,41 @@ awards:
     summary: as part of BBC Voice News Team for BBC News on Smart Speakers
 skills:
   - name: Audio
-    level: Master
     keywords:
       - Bulletin reader
       - Live reporter
       - Speech radio producer
       - Talented audio editor
   - name: Online 
-    level: Master
     keywords:
       - Live blogger
       - Social video producer
       - Social media curator
   - name: Data 
-    level: Master
     keywords:
       - R and RStudio
       - Dplyr and ggplot2
       - Microsoft Excel
       - Google Sheets
-# languages:
-#   - language: English
-#     fluency: Native speaker
+  - name: Coding 
+    keywords:
+      - Intermediate HTML/CSS
+      - Personal site hosted with Hugo Static Site Generator
+      - Uses Fish shell on Mac OS X
+      - Basic Ruby
+languages:
+  - language: English
+    fluency: Native speaker
 interests:
   - name: Video Games
     keywords:
       - Nintendo Switch
       - Animal Crossing New Horizons
   - name: Reading
-    keywords:
-      - Ferrets
-      - Unicorns
   - name: Technology
     keywords:
-      - Voice activated
-      - Unicorns
+      - Voice tech
+      - Digital audio
+      - Mobile
+meta:
+  theme: elegant

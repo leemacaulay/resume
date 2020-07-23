@@ -1,0 +1,18 @@
+# Yaml Resume
+
+Hello! This is mostly for my personal use as I get too confused writing in json, so I write my [jsonresume](jsonresume.org) in yaml before converting it using yq. 
+
+Once you have installed, yq you should be able to run `make` in this folder to easily convert your resume.yaml to resume.json for further use.
+
+# How to update resume
+
+1. Make changes to resume.yaml in a text editor - `code resume.yaml`
+
+2. Run `make` to convert yaml file to resume.json and c5ee.../resume.json
+
+3. Update Github gist by entering cfee.../ folder and running `git add .` then `git commit -m 'your message'
+ 
+4. Run `git commit origin master`
+
+# FIX for standard-resume theme not working 
+https://github.com/jsonresume/resume-cli/pull/362/commits/98d91700ac83d1c26744b2bf573d42e24b994ee6

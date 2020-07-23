@@ -15,7 +15,7 @@
   ],
   "basics": {
     "email": "lee@mixmul.com",
-    "label": "Audio Journalist",
+    "label": "Audio journalist",
     "location": {
       "city": "London",
       "countryCode": "GB"
@@ -32,9 +32,14 @@
         "network": "Linkedin",
         "url": "https://www.linkedin.com/in/leemacaulay/",
         "username": "leemacaulay"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://www.github.com/leemacaulay",
+        "username": "leemacaulay"
       }
     ],
-    "summary": "Hey 👋 I'm a journalist with more than six years' of newsroom experience and, now, I work at cutting edge of audio news. I was part of the launch team for the world's first interactive news bulletin service for smart speakers. I've worked in newsrooms for BBC News, BBC Local Radio and commercial radio stations in the north of England. My writing style is concise, precise and tailor-made for the internet.",
+    "summary": "Hey 👋 I'm a journalist with more than six years' of newsroom experience and, now, I work at cutting edge of audio news. I was part of the launch team for the world's first interactive news bulletin service for smart speakers. I've worked in newsrooms for BBC News, BBC Local Radio and commercial radio stations in the north of England. My writing style is concise, precise and tailor-made for the internet. I know just enough about coding to be dangerous too.",
     "website": "https://lmcly.fyi"
   },
   "education": [
@@ -68,20 +73,26 @@
       "name": "Video Games"
     },
     {
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ],
       "name": "Reading"
     },
     {
       "keywords": [
-        "Voice activated",
-        "Unicorns"
+        "Voice tech",
+        "Digital audio",
+        "Mobile"
       ],
       "name": "Technology"
     }
   ],
+  "languages": [
+    {
+      "fluency": "Native speaker",
+      "language": "English"
+    }
+  ],
+  "meta": {
+    "theme": "elegant"
+  },
   "skills": [
     {
       "keywords": [
@@ -90,7 +101,6 @@
         "Speech radio producer",
         "Talented audio editor"
       ],
-      "level": "Master",
       "name": "Audio"
     },
     {
@@ -99,7 +109,6 @@
         "Social video producer",
         "Social media curator"
       ],
-      "level": "Master",
       "name": "Online"
     },
     {
@@ -109,8 +118,16 @@
         "Microsoft Excel",
         "Google Sheets"
       ],
-      "level": "Master",
       "name": "Data"
+    },
+    {
+      "keywords": [
+        "Intermediate HTML/CSS",
+        "Personal site hosted with Hugo Static Site Generator",
+        "Uses Fish shell on Mac OS X",
+        "Basic Ruby"
+      ],
+      "name": "Coding"
     }
   ],
   "work": [
@@ -125,7 +142,7 @@
       ],
       "position": "Journalist, Voice News",
       "startDate": "2019-04-01",
-      "summary": "Writer, editor and bulletin reader of bespoke news bulletins created for smart speakers and mobile devices, heard by hundreds of thousands of people every month.",
+      "summary": "Writer, editor and bulletin reader of bespoke BBC News bulletins created for smart speakers and mobile devices, heard by hundreds of thousands of people every month.",
       "website": "https://www.bbc.co.uk/news/help-50068132"
     },
     {
@@ -151,7 +168,7 @@
       ],
       "position": "Journalist",
       "startDate": "2015-09-01",
-      "summary": "Reporter, producer and newsreader on the BBC's local radio station for Cumbria which reaches around one in four adults a week.",
+      "summary": "Reporter, producer, newsreader and live blogger for the BBC's local radio station for Cumbria which reaches around one in four adults a week.",
       "website": "https://www.bbc.co.uk/radiocumbria"
     },
     {
